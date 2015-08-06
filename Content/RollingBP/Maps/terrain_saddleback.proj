@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<varlist name="ProjectData">
+	<int name="FileVersion">1</int>
+	<varlist name="MapInfo">
+		<varlist name="Terrain">
+			<int name="nx">2000</int>
+			<int name="ny">1155</int>
+			<float name="MinAlt">462</float>
+			<float name="MaxAlt">1728.35</float>
+			<float name="HorizScale">92.69</float>
+		</varlist>
+		<bool name="WrapFlag">false</bool>
+	</varlist>
+	<varlist name="Maps">
+		<varlist name="HF">
+			<string name="Filename">terrain_saddleback_HF.hfz</string>
+			<string name="MapType">HF</string>
+		</varlist>
+	</varlist>
+</varlist>
