@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<Version>1</Version>
+<ProcessId>6104</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<GameName>LunarLander</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineVersion>4.8.2-2614606+++depot+UE4-Releases+4.8</EngineVersion>
+<CommandLine> </CommandLine>
+<LanguageLCID>1033</LanguageLCID>
+<DefaultLocale>en_US</DefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files/Epic Games/4.8/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files/Epic Games/4.8/</RootDir>
+<MachineId>CAA900D34F44DDA462240CA95F70A9FA</MachineId>
+<EpicAccountId>f1660eb3b4d842999ca848852103d3a3</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage>Ensure condition failed: ObjClass->IsChildOf(FunctionOwner) [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.8\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 362] 
+
+</ErrorMessage>
+<MiscNumberOfCores>4</MiscNumberOfCores>
+<MiscNumberOfCoresIncludingHyperthreads>8</MiscNumberOfCoresIncludingHyperthreads>
+<MiscIs64bitOperatingSystem>1</MiscIs64bitOperatingSystem>
+<MiscCPUVendor>GenuineIntel</MiscCPUVendor>
+<MiscCPUBrand>Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz</MiscCPUBrand>
+<MiscPrimaryGPUBrand>NVIDIA GeForce GTX 760</MiscPrimaryGPUBrand>
+<MiscOSVersionMajor>Windows 7</MiscOSVersionMajor>
+<MiscOSVersionMinor>Service Pack 1</MiscOSVersionMinor>
+<MemoryStatsTotalPhysical>17128706048</MemoryStatsTotalPhysical>
+<MemoryStatsTotalVirtual>8796092891136</MemoryStatsTotalVirtual>
+<MemoryStatsPageSize>4096</MemoryStatsPageSize>
+<MemoryStatsTotalPhysicalGB>16</MemoryStatsTotalPhysicalGB>
+</RuntimeProperties>
+<PlatformProperties>
+<Platform.IsRunningWindows>1</Platform.IsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
